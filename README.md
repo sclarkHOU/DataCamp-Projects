@@ -27,22 +27,3 @@ The dataset used in this project is a modified version of the Disney Character S
 Description: Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, I built an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
 
 The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
-
-## Usage
-
-Each project is contained in its own directory, which includes a Jupyter Notebook (.ipynb) file and any necessary datasets or resources. To run the projects locally, you will need to have Python and Jupyter Notebook installed on your machine. Additionally, make sure to install any required libraries mentioned in the project's notebook.
-
-To get started, follow these steps:
-
-1. Clone the repository:
-git clone https://github.com/sclarkHOU/datacamp-projects.git
-cd project-1
-jupyter notebook
-Run the notebook cells to see the code and results.
-Feel free to explore and modify the code to further understand the concepts covered in each project.
-
-Contributing
-Pull requests are welcome if you have suggestions for improvements or find any issues with the projects. Please create a separate branch for each pull request.
-
-License
-This repository is licensed under the MIT License.
